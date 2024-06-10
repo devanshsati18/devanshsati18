@@ -2,17 +2,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamranswal" alt="shubhamranswal" /></a> </p>
 
-- 👨‍💻 Reach me at [https://shubhamranswal.github.io/](https://shubhamranswal.github.io/)
+- 👨‍💻 Reach me at [Devanshsati.com/](https://devanshsati.com/)
 
-- 📫 or drop an email @ **shubhamranswal@gmail.com**
+- 📫 or drop an email @ **devanshjsati@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/u/2/d/1XgG-UhY9SxOeHjAW8XYGjvnOuzkMUnPv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shubhamranswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamranswal" height="30" width="40" /></a>
-<a href="https://instagram.com/shubhamranswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhamranswal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shubhamranswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhamranswal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/devansh-sati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DevanshSati" height="30" width="40" /></a>
+<a href="https://instagram.com/shubhamranswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="DevanshSati" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/devanshjsati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="DevanshSati" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

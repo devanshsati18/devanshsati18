@@ -1,6 +1,6 @@
 <h3 align="center">Researcher & Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamranswal" alt="shubhamranswal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanshsati18" alt="devanshsati" /></a> </p>
 
 - 👨‍💻 Reach me at [Devanshsati.com/](https://devanshsati.com/)
 
